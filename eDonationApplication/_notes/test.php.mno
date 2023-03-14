@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ProgramID;datatype:int,name:ProgramTitle;datatype:blob,name:AmountOfStudent;datatype:int,name:DateOfProgram;datatype:date,name:Organization;datatype:blob,name:letter;datatype:blob" />
+	<infoitem key="UD_Recordset2" value="name:ApplicantIDNo;datatype:string,name:ProgramID;datatype:int,name:ApprovalStatus;datatype:blob,name:AmountOfDonation;datatype:int" />
+	<infoitem key="UD_Recordset3" value="name:ApplicantIDNo;datatype:string,name:ProgramID;datatype:int,name:ProgramTitle;datatype:blob,name:AmountOfStudent;datatype:int,name:DateOfProgram;datatype:date,name:Organization;datatype:blob,name:letter;datatype:blob,name:ApprovalStatus;datatype:blob,name:AmountOfDonation;datatype:int" />
+</info>
